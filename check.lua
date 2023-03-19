@@ -1,3 +1,1 @@
-return {
-  false,
-  }
+return false
